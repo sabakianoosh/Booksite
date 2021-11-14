@@ -1,2 +1,2 @@
-# Djnago-project
-First semester project
+# Booksite
+first project
